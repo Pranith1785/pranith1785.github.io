@@ -493,8 +493,11 @@ section {
 .skills .progress-bar {
   width: 1px;
   height: 10px;
-  transition: .9s;
+  transition: 0.9s;
   background-color: #0563bb;
+}
+.ml-title{
+  padding-bottom: 10px;
 }
 
 /*--------------------------------------------------------------
